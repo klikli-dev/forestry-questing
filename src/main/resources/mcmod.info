@@ -1,0 +1,16 @@
+[
+{
+  "modid": "forestryquesting",
+  "name": "Forestry Questing",
+  "description": "Better Questing Forestry Expansion",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tao"],
+  "credits": "Tao",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
